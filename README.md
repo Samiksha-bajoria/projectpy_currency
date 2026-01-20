@@ -9,10 +9,10 @@ the latest currency conversion values.
 
 ## 📌 Features
 
--   Clean and simple Tkinter-based GUI\
--   Real-time currency exchange rates\
--   Supports multiple currencies\
--   Lightweight and easy to run\
+-   Clean and simple Tkinter-based GUI
+-   Real-time currency exchange rates
+-   Supports multiple currencies
+-   Lightweight and easy to run
 -   Accurate and fast conversions
 
 ------------------------------------------------------------------------
@@ -70,7 +70,8 @@ API Endpoint Used:
 
 ## 📷 Screenshot
 
-*(You can add a screenshot of your GUI here later)*
+<img width="593" height="617" alt="Screenshot 2026-01-20 215708" src="https://github.com/user-attachments/assets/7e06aa36-b3a6-447c-8b79-51e8f06ef7a5" />
+
 
 ------------------------------------------------------------------------
 
@@ -80,13 +81,6 @@ API Endpoint Used:
 -   Improve GUI styling\
 -   Add historical exchange rate tracking\
 -   Add offline cached rates
-
-------------------------------------------------------------------------
-
-## 🤝 Contributing
-
-Contributions are welcome!\
-Feel free to fork this repository and submit pull requests.
 
 ------------------------------------------------------------------------
 
